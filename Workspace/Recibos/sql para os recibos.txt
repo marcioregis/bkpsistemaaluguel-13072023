@@ -1,0 +1,1 @@
+SELECT nomeinq,imoveis_codigo,i.nome,i.valoraluguel FROM inquilinos INNER JOIN imoveis i ON i.codigo= imoveis_codigo;

@@ -1,0 +1,6 @@
+1. Menu Server - Data Export
+2. Marquye o Schema sistema
+3. Marque a opcao Export to Self-Contained Filer
+4. Marque a opcao Include Create Schema
+5. Depois clique no botao Start Export
+6. O backup vai ficar no Documentes/Dump copie para a pasta do Git

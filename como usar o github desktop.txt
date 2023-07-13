@@ -1,0 +1,8 @@
+1. entre no github pelo browser
+2. cir um novo repositoriobk-sistemas como publico
+3. depois clica em clonar o repositorio
+4. Va no desktop github - file - clonar repositorio - aba URL
+copia a URL - https://github.com/marcioregis/bkp-sistemas.git
+5. Caso vc tenha feito altecaoes copie os arquivos para a pasta do
+Git que exta em - C:\Users\marcioregis\Documents\GitHub
+6. Depois so fazer o comit - Depois o Push
